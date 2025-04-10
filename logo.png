@@ -1,0 +1,10 @@
+<header>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+    <img src="logo.png" alt="CyberShieldX Logo" style="height: 50px;" />
+    <h1>CyberShieldX</h1>
+  </div>
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
